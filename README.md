@@ -1,6 +1,6 @@
 # Filtro SISU
 
-Saiba com exatidão e precisão como tem rodado a lista de espera e as notas de cortes da sua universidade.
+Saiba com exatidão e precisão como tem rodado a lista de espera e as notas de cortes da sua futura universidade.
 
 ## Configurações
 - Execute o arquivo `update.bat` para instalar/atualizar as dependencias
